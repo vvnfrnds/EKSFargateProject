@@ -1,6 +1,6 @@
 # Install EKS
 
-Please follow the prerequisites doc before this.
+Please follow the prerequisites documnet before this.
 
 ## Install using Fargate
 
